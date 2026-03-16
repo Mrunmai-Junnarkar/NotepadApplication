@@ -20,7 +20,7 @@ This project demonstrates basic file handling and text editing operations in a G
 ### Prerequisites
 - [Qt Framework](https://www.qt.io/download) (Qt 5 or Qt 6)
 - C++ compiler (e.g., GCC, MSVC, Clang)
-- CMake or Qt Creator IDE
+- qmake or Qt Creator IDE
 
 ### Installation
 1. Clone the repository:
